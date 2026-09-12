@@ -1,1 +1,1 @@
-# f1-setup-simulaitor
+# f1-setup-simulator
